@@ -1,0 +1,246 @@
+match_id,date,venue,team1,team2,toss_winner,toss_decision,winner,player_of_match,format
+match_00001,2022-06-16,Wankhede Stadium,Ireland,Sri Lanka,Sri Lanka,bat,,Rinku Singh,test
+match_00002,2015-12-07,Optus,Afghanistan,Netherlands,Netherlands,bat,,Trent Boult,test
+match_00003,2024-11-08,Ahmedabad,Punjab Kings,Bangladesh,Punjab Kings,field,Punjab Kings,Kane Williamson,test
+match_00004,2023-11-18,Chepauk,Mumbai Indians,Pakistan,Pakistan,bat,Mumbai Indians,Rinku Singh,test
+match_00005,2016-03-27,Lords,Royal Challengers Bengaluru,Ireland,Royal Challengers Bengaluru,bat,,Shikhar Dhawan,test
+match_00006,2015-04-27,Ahmedabad,Ireland,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Andre Russell,test
+match_00007,2015-10-15,Wankhede Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,,Ravindra Jadeja,test
+match_00008,2022-11-26,Ahmedabad,West Indies,Kolkata Knight Riders,Kolkata Knight Riders,bat,,Shikhar Dhawan,test
+match_00009,2023-02-05,Wankhede Stadium,Bangladesh,West Indies,Bangladesh,bat,,Babar Azam,test
+match_00010,2024-07-03,Optus,Ireland,Chennai Super Kings,Ireland,field,Chennai Super Kings,Jos Buttler,test
+match_00011,2014-07-16,SCG,Mumbai Indians,New Zealand,Mumbai Indians,field,New Zealand,David Warner,test
+match_00012,2013-02-19,Chinnaswamy,Netherlands,Australia,Australia,field,Netherlands,Faf du Plessis,test
+match_00013,2012-11-04,Optus,Afghanistan,West Indies,West Indies,field,Afghanistan,Shreyas Iyer,test
+match_00014,2016-05-23,Lords,Kolkata Knight Riders,West Indies,West Indies,field,West Indies,Shane Watson,test
+match_00015,2016-07-13,Sharjah,New Zealand,Netherlands,Netherlands,field,New Zealand,Andre Russell,test
+match_00016,2016-05-07,SCG,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,,Shubman Gill,test
+match_00017,2019-11-16,Chepauk,Rajasthan Royals,Pakistan,Pakistan,field,,Shikhar Dhawan,test
+match_00018,2012-01-22,Chinnaswamy,Ireland,South Africa,Ireland,field,Ireland,Shubman Gill,test
+match_00019,2019-04-07,SCG,Netherlands,Mumbai Indians,Netherlands,field,Netherlands,Faf du Plessis,test
+match_00020,2012-08-04,Optus,England,West Indies,West Indies,bat,,Trent Boult,test
+match_00021,2024-09-10,Wankhede Stadium,Australia,West Indies,Australia,field,,Shreyas Iyer,test
+match_00022,2021-07-15,Eden Gardens,New Zealand,Ireland,New Zealand,bat,,Faf du Plessis,test
+match_00023,2013-08-18,Sharjah,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,Kieron Pollard,test
+match_00024,2014-05-15,Eden Gardens,Chennai Super Kings,Pakistan,Pakistan,field,Pakistan,Shreyas Iyer,test
+match_00025,2018-11-21,Sharjah,Punjab Kings,Australia,Australia,bat,,Shreyas Iyer,test
+match_00001,2015-07-18,MCG,Pakistan,New Zealand,Pakistan,bat,New Zealand,Shubman Gill,odi
+match_00002,2012-08-15,Chinnaswamy,Sri Lanka,Chennai Super Kings,Sri Lanka,field,Chennai Super Kings,Trent Boult,odi
+match_00003,2018-02-24,Lords,West Indies,Netherlands,Netherlands,field,,Rinku Singh,odi
+match_00004,2012-10-03,Chinnaswamy,Sri Lanka,Netherlands,Netherlands,field,Netherlands,Mohammad Shami,odi
+match_00005,2016-03-06,Eden Gardens,Rajasthan Royals,Pakistan,Rajasthan Royals,bat,,Shikhar Dhawan,odi
+match_00006,2016-02-19,Wankhede Stadium,Afghanistan,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,Virat Kohli,odi
+match_00007,2020-03-06,Optus,New Zealand,West Indies,West Indies,field,New Zealand,Shane Watson,odi
+match_00008,2016-11-05,Chinnaswamy,Pakistan,Punjab Kings,Pakistan,field,,Suryakumar Yadav,odi
+match_00009,2012-03-02,MCG,Punjab Kings,South Africa,Punjab Kings,bat,Punjab Kings,Pat Cummins,odi
+match_00010,2022-08-09,Wankhede Stadium,Chennai Super Kings,New Zealand,Chennai Super Kings,bat,Chennai Super Kings,Kieron Pollard,odi
+match_00011,2024-09-13,Chinnaswamy,Kolkata Knight Riders,Pakistan,Kolkata Knight Riders,bat,,Rinku Singh,odi
+match_00012,2019-11-28,Optus,Sunrisers Hyderabad,Pakistan,Pakistan,field,Pakistan,Yuzvendra Chahal,odi
+match_00013,2018-03-10,Optus,Ireland,Sunrisers Hyderabad,Ireland,field,,Rohit Sharma,odi
+match_00014,2024-11-23,Optus,Pakistan,India,Pakistan,bat,India,Joe Root,odi
+match_00015,2014-07-15,Eden Gardens,Bangladesh,South Africa,South Africa,bat,Bangladesh,Faf du Plessis,odi
+match_00016,2014-10-26,SCG,England,Pakistan,Pakistan,field,England,Andre Russell,odi
+match_00017,2020-09-08,Chinnaswamy,Bangladesh,England,England,field,Bangladesh,Kane Williamson,odi
+match_00018,2019-05-02,Chinnaswamy,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,Sunrisers Hyderabad,MS Dhoni,odi
+match_00019,2014-09-24,Eden Gardens,Chennai Super Kings,West Indies,Chennai Super Kings,field,West Indies,Steve Smith,odi
+match_00020,2020-08-14,Lords,India,Punjab Kings,India,bat,India,Babar Azam,odi
+match_00021,2019-11-20,Chepauk,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,Gujarat Titans,Mohammad Shami,odi
+match_00022,2020-03-24,Optus,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,,Rinku Singh,odi
+match_00023,2016-04-14,Lords,Gujarat Titans,New Zealand,New Zealand,field,,Rashid Khan,odi
+match_00024,2020-03-28,Chinnaswamy,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,Yuzvendra Chahal,odi
+match_00025,2012-09-10,Optus,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,,Shubman Gill,odi
+match_00026,2023-05-23,Optus,Royal Challengers Bengaluru,Pakistan,Pakistan,field,Royal Challengers Bengaluru,Kieron Pollard,odi
+match_00027,2015-12-12,Ahmedabad,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bengaluru,Hardik Pandya,odi
+match_00028,2021-02-16,Chepauk,Bangladesh,Gujarat Titans,Gujarat Titans,field,,Jos Buttler,odi
+match_00029,2020-11-28,Chepauk,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,David Warner,odi
+match_00030,2022-09-27,Optus,India,South Africa,South Africa,field,South Africa,Jos Buttler,odi
+match_00031,2013-06-09,Chepauk,Sri Lanka,Kolkata Knight Riders,Sri Lanka,field,Kolkata Knight Riders,Yuzvendra Chahal,odi
+match_00032,2015-05-18,SCG,Netherlands,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Netherlands,Andre Russell,odi
+match_00033,2013-01-20,MCG,Chennai Super Kings,Australia,Australia,field,,Mohammed Siraj,odi
+match_00034,2022-03-11,Eden Gardens,Kolkata Knight Riders,India,India,field,India,Kane Williamson,odi
+match_00035,2013-10-04,Ahmedabad,India,Kolkata Knight Riders,India,bat,,Shreyas Iyer,odi
+match_00036,2022-05-19,Ahmedabad,West Indies,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Shaheen Afridi,odi
+match_00037,2023-12-07,Optus,Sunrisers Hyderabad,Australia,Australia,bat,Australia,Rohit Sharma,odi
+match_00038,2017-07-16,Sharjah,New Zealand,Ireland,Ireland,bat,Ireland,Suryakumar Yadav,odi
+match_00039,2017-10-11,Sharjah,Kolkata Knight Riders,Ireland,Kolkata Knight Riders,field,,MS Dhoni,odi
+match_00040,2016-07-07,SCG,England,Kolkata Knight Riders,Kolkata Knight Riders,field,,Mohammed Siraj,odi
+match_00041,2015-09-01,Eden Gardens,India,Netherlands,India,bat,,Mohammad Shami,odi
+match_00042,2014-03-12,Wankhede Stadium,Pakistan,New Zealand,New Zealand,field,,Jasprit Bumrah,odi
+match_00043,2016-05-11,Sharjah,Bangladesh,South Africa,Bangladesh,field,Bangladesh,Trent Boult,odi
+match_00044,2012-12-25,Optus,Netherlands,West Indies,West Indies,bat,West Indies,Shreyas Iyer,odi
+match_00045,2014-03-24,SCG,Sri Lanka,New Zealand,Sri Lanka,bat,New Zealand,Virat Kohli,odi
+match_00046,2016-09-05,Eden Gardens,West Indies,India,India,field,West Indies,Rohit Sharma,odi
+match_00047,2021-12-13,Chepauk,Rajasthan Royals,Afghanistan,Afghanistan,bat,,Virat Kohli,odi
+match_00048,2020-06-07,Wankhede Stadium,Sri Lanka,Bangladesh,Sri Lanka,field,,Andre Russell,odi
+match_00049,2017-11-24,Ahmedabad,South Africa,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,,Jos Buttler,odi
+match_00050,2016-12-20,Chepauk,South Africa,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,South Africa,Babar Azam,odi
+match_00051,2016-06-26,Chinnaswamy,Ireland,Gujarat Titans,Ireland,field,Ireland,Joe Root,odi
+match_00052,2019-09-02,Eden Gardens,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,Rohit Sharma,odi
+match_00053,2013-11-10,Sharjah,Australia,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,KL Rahul,odi
+match_00054,2020-01-09,Wankhede Stadium,Punjab Kings,Afghanistan,Afghanistan,field,,Shaheen Afridi,odi
+match_00055,2012-01-17,Chinnaswamy,South Africa,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,South Africa,Andre Russell,odi
+match_00056,2016-05-07,Wankhede Stadium,Punjab Kings,Bangladesh,Bangladesh,field,Punjab Kings,Trent Boult,odi
+match_00057,2019-02-26,SCG,Pakistan,Punjab Kings,Punjab Kings,bat,Punjab Kings,Andre Russell,odi
+match_00058,2016-06-25,Optus,India,Afghanistan,India,field,,Rashid Khan,odi
+match_00059,2013-11-12,Chinnaswamy,Netherlands,England,Netherlands,bat,Netherlands,Babar Azam,odi
+match_00060,2015-04-17,Chepauk,West Indies,Pakistan,Pakistan,field,Pakistan,Faf du Plessis,odi
+match_00001,2024-02-27,Chinnaswamy,India,Mumbai Indians,India,bat,India,KL Rahul,t20
+match_00002,2012-03-13,Lords,New Zealand,India,India,field,India,Shubman Gill,t20
+match_00003,2016-09-28,Chinnaswamy,West Indies,India,India,bat,India,Kane Williamson,t20
+match_00004,2012-07-24,MCG,Rajasthan Royals,India,Rajasthan Royals,field,Rajasthan Royals,Ravindra Jadeja,t20
+match_00005,2018-02-19,Lords,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Gujarat Titans,Pat Cummins,t20
+match_00006,2012-07-09,SCG,Mumbai Indians,Sri Lanka,Sri Lanka,field,Mumbai Indians,Jos Buttler,t20
+match_00007,2019-11-01,Wankhede Stadium,Mumbai Indians,South Africa,South Africa,bat,South Africa,Rashid Khan,t20
+match_00008,2022-06-05,MCG,Australia,Afghanistan,Australia,bat,Australia,Mohammed Siraj,t20
+match_00009,2016-01-06,SCG,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,Kolkata Knight Riders,Jos Buttler,t20
+match_00010,2023-12-10,Wankhede Stadium,New Zealand,Netherlands,Netherlands,field,,Pat Cummins,t20
+match_00011,2013-02-28,Sharjah,England,Australia,England,bat,,MS Dhoni,t20
+match_00012,2022-04-09,MCG,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kieron Pollard,t20
+match_00013,2016-03-10,SCG,Afghanistan,Australia,Afghanistan,bat,Afghanistan,David Warner,t20
+match_00014,2022-02-24,Ahmedabad,Netherlands,England,Netherlands,field,England,Rashid Khan,t20
+match_00015,2019-08-04,Ahmedabad,India,Ireland,Ireland,bat,Ireland,David Warner,t20
+match_00016,2022-09-01,Lords,West Indies,Australia,Australia,field,,Ravindra Jadeja,t20
+match_00017,2023-03-11,Chepauk,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Kolkata Knight Riders,Jos Buttler,t20
+match_00018,2013-08-09,Ahmedabad,South Africa,Sunrisers Hyderabad,South Africa,bat,Sunrisers Hyderabad,MS Dhoni,t20
+match_00019,2020-04-01,Lords,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,Gujarat Titans,Mohammad Shami,t20
+match_00020,2013-12-28,Optus,Australia,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Shikhar Dhawan,t20
+match_00021,2012-04-24,Wankhede Stadium,West Indies,India,India,field,West Indies,Virat Kohli,t20
+match_00022,2020-01-22,MCG,Gujarat Titans,Afghanistan,Afghanistan,bat,,Pat Cummins,t20
+match_00023,2014-01-21,Chepauk,Bangladesh,Ireland,Ireland,field,Bangladesh,KL Rahul,t20
+match_00024,2013-01-27,Wankhede Stadium,South Africa,Kolkata Knight Riders,South Africa,bat,South Africa,Virat Kohli,t20
+match_00025,2013-07-01,Wankhede Stadium,Kolkata Knight Riders,South Africa,South Africa,field,South Africa,Kane Williamson,t20
+match_00026,2013-04-07,Lords,New Zealand,Afghanistan,New Zealand,bat,New Zealand,Virat Kohli,t20
+match_00027,2023-02-15,MCG,Chennai Super Kings,Australia,Chennai Super Kings,bat,,KL Rahul,t20
+match_00028,2022-04-28,Chinnaswamy,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,Rajasthan Royals,Steve Smith,t20
+match_00029,2015-05-24,Chepauk,Sri Lanka,New Zealand,Sri Lanka,bat,,Kieron Pollard,t20
+match_00030,2019-03-27,Eden Gardens,Bangladesh,Rajasthan Royals,Bangladesh,field,,AB de Villiers,t20
+match_00031,2014-06-12,Sharjah,Pakistan,New Zealand,Pakistan,field,Pakistan,Hardik Pandya,t20
+match_00032,2017-04-19,Ahmedabad,England,South Africa,England,field,South Africa,Rashid Khan,t20
+match_00033,2019-02-17,Optus,West Indies,Ireland,West Indies,bat,Ireland,Mohammad Shami,t20
+match_00034,2018-01-07,SCG,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,Yuzvendra Chahal,t20
+match_00035,2022-08-12,Eden Gardens,West Indies,Afghanistan,Afghanistan,field,Afghanistan,Shreyas Iyer,t20
+match_00036,2020-04-15,Chepauk,South Africa,Gujarat Titans,South Africa,field,,Babar Azam,t20
+match_00037,2016-11-03,SCG,West Indies,England,England,bat,West Indies,Shikhar Dhawan,t20
+match_00038,2024-02-07,Wankhede Stadium,West Indies,Sunrisers Hyderabad,West Indies,field,West Indies,Virat Kohli,t20
+match_00039,2013-10-22,Chinnaswamy,Afghanistan,Kolkata Knight Riders,Afghanistan,bat,Kolkata Knight Riders,Mohammed Siraj,t20
+match_00040,2018-01-05,SCG,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,Kane Williamson,t20
+match_00041,2017-04-17,Ahmedabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,Jasprit Bumrah,t20
+match_00042,2024-04-12,Wankhede Stadium,Rajasthan Royals,Pakistan,Pakistan,bat,,David Warner,t20
+match_00043,2015-06-11,Ahmedabad,Chennai Super Kings,Afghanistan,Chennai Super Kings,bat,Afghanistan,Faf du Plessis,t20
+match_00044,2020-12-19,Lords,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,,Kane Williamson,t20
+match_00045,2024-12-19,SCG,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,Kane Williamson,t20
+match_00046,2020-04-16,Lords,Bangladesh,Australia,Bangladesh,field,,Virat Kohli,t20
+match_00047,2012-07-19,Wankhede Stadium,Mumbai Indians,South Africa,South Africa,bat,,Faf du Plessis,t20
+match_00048,2016-03-15,Eden Gardens,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,Shikhar Dhawan,t20
+match_00049,2015-04-10,Chepauk,South Africa,Punjab Kings,South Africa,bat,Punjab Kings,Babar Azam,t20
+match_00050,2016-09-21,Ahmedabad,South Africa,Afghanistan,South Africa,bat,,Kane Williamson,t20
+match_00051,2017-09-15,Chinnaswamy,Sunrisers Hyderabad,Pakistan,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Virat Kohli,t20
+match_00052,2022-08-14,Sharjah,Netherlands,Sunrisers Hyderabad,Netherlands,field,,Kane Williamson,t20
+match_00053,2019-12-14,Sharjah,Sri Lanka,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Kane Williamson,t20
+match_00054,2012-11-23,Eden Gardens,Sri Lanka,Rajasthan Royals,Sri Lanka,field,Rajasthan Royals,Rashid Khan,t20
+match_00055,2023-04-10,Wankhede Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Faf du Plessis,t20
+match_00056,2022-04-09,Sharjah,Afghanistan,Gujarat Titans,Afghanistan,bat,,Trent Boult,t20
+match_00057,2023-08-25,Chinnaswamy,Royal Challengers Bengaluru,England,England,field,Royal Challengers Bengaluru,Rohit Sharma,t20
+match_00058,2023-04-08,Sharjah,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,Yuzvendra Chahal,t20
+match_00059,2017-05-15,Chinnaswamy,Pakistan,South Africa,South Africa,field,Pakistan,Joe Root,t20
+match_00060,2021-11-21,Wankhede Stadium,New Zealand,Pakistan,New Zealand,bat,Pakistan,Jos Buttler,t20
+match_00061,2024-09-04,Lords,West Indies,Pakistan,Pakistan,field,West Indies,Babar Azam,t20
+match_00062,2017-12-17,SCG,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Pat Cummins,t20
+match_00063,2016-08-10,Chepauk,New Zealand,Punjab Kings,Punjab Kings,bat,,Shreyas Iyer,t20
+match_00064,2015-05-12,MCG,Gujarat Titans,Netherlands,Netherlands,bat,,Pat Cummins,t20
+match_00065,2019-06-26,Chinnaswamy,Australia,Gujarat Titans,Australia,field,Australia,KL Rahul,t20
+match_00066,2017-02-04,Sharjah,Netherlands,Royal Challengers Bengaluru,Netherlands,bat,Royal Challengers Bengaluru,Babar Azam,t20
+match_00067,2018-02-23,Optus,India,Pakistan,India,field,,KL Rahul,t20
+match_00068,2020-04-03,Optus,South Africa,Mumbai Indians,Mumbai Indians,bat,,Andre Russell,t20
+match_00069,2019-05-03,Eden Gardens,Ireland,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,,Shubman Gill,t20
+match_00070,2014-11-04,Lords,Sri Lanka,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,MS Dhoni,t20
+match_00071,2012-06-24,Lords,Ireland,Bangladesh,Ireland,field,Bangladesh,Rohit Sharma,t20
+match_00072,2022-02-11,Eden Gardens,Netherlands,Gujarat Titans,Gujarat Titans,field,,Faf du Plessis,t20
+match_00073,2022-12-06,MCG,South Africa,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,South Africa,Faf du Plessis,t20
+match_00074,2021-07-24,SCG,Sri Lanka,New Zealand,Sri Lanka,bat,Sri Lanka,Rashid Khan,t20
+match_00075,2022-11-12,Lords,South Africa,Netherlands,Netherlands,field,Netherlands,Kieron Pollard,t20
+match_00076,2023-02-24,Wankhede Stadium,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,Gujarat Titans,Kane Williamson,t20
+match_00077,2019-03-17,Ahmedabad,Bangladesh,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rashid Khan,t20
+match_00078,2013-11-22,Wankhede Stadium,Punjab Kings,Pakistan,Pakistan,bat,Punjab Kings,MS Dhoni,t20
+match_00079,2020-05-23,Chinnaswamy,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,Shaheen Afridi,t20
+match_00080,2016-12-28,Sharjah,New Zealand,Pakistan,Pakistan,field,New Zealand,Faf du Plessis,t20
+match_00001,2024-12-12,Eden Gardens,Kolkata Knight Riders,New Zealand,New Zealand,bat,New Zealand,Joe Root,ipl
+match_00002,2021-09-09,SCG,West Indies,Sri Lanka,Sri Lanka,bat,,MS Dhoni,ipl
+match_00003,2017-08-04,Sharjah,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Kolkata Knight Riders,Pat Cummins,ipl
+match_00004,2024-04-17,Optus,Sri Lanka,Ireland,Ireland,bat,Ireland,Jos Buttler,ipl
+match_00005,2024-08-25,SCG,Rajasthan Royals,India,Rajasthan Royals,bat,India,Pat Cummins,ipl
+match_00006,2012-01-21,Chinnaswamy,Chennai Super Kings,England,England,bat,,Babar Azam,ipl
+match_00007,2014-12-26,Sharjah,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,David Warner,ipl
+match_00008,2017-08-19,MCG,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,Rinku Singh,ipl
+match_00009,2013-12-11,MCG,West Indies,England,West Indies,bat,,Faf du Plessis,ipl
+match_00010,2012-10-26,Eden Gardens,Rajasthan Royals,Ireland,Rajasthan Royals,field,Rajasthan Royals,David Warner,ipl
+match_00011,2017-08-01,Eden Gardens,Australia,England,England,field,Australia,Mohammed Siraj,ipl
+match_00012,2013-06-07,Optus,Sunrisers Hyderabad,Ireland,Ireland,bat,Sunrisers Hyderabad,Suryakumar Yadav,ipl
+match_00013,2022-06-14,Wankhede Stadium,Pakistan,India,Pakistan,bat,,Steve Smith,ipl
+match_00014,2014-06-02,Ahmedabad,Afghanistan,New Zealand,New Zealand,bat,,AB de Villiers,ipl
+match_00015,2021-01-04,Ahmedabad,Royal Challengers Bengaluru,England,England,bat,,Trent Boult,ipl
+match_00016,2021-05-02,Optus,India,Chennai Super Kings,India,field,India,Mohammad Shami,ipl
+match_00017,2021-05-02,Ahmedabad,Netherlands,Sri Lanka,Sri Lanka,field,Sri Lanka,Rohit Sharma,ipl
+match_00018,2016-05-18,Sharjah,Afghanistan,Punjab Kings,Punjab Kings,field,Afghanistan,MS Dhoni,ipl
+match_00019,2013-02-24,Chinnaswamy,Ireland,Rajasthan Royals,Ireland,field,Rajasthan Royals,Mohammed Siraj,ipl
+match_00020,2024-09-10,Eden Gardens,New Zealand,Punjab Kings,Punjab Kings,field,Punjab Kings,Mohammed Siraj,ipl
+match_00021,2013-09-24,Lords,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,Mohammed Siraj,ipl
+match_00022,2018-05-05,Chinnaswamy,Sunrisers Hyderabad,Afghanistan,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Babar Azam,ipl
+match_00023,2020-06-26,Optus,Gujarat Titans,England,England,bat,,Joe Root,ipl
+match_00024,2023-08-13,Eden Gardens,Gujarat Titans,South Africa,South Africa,field,,Ravindra Jadeja,ipl
+match_00025,2023-01-08,Wankhede Stadium,Afghanistan,Bangladesh,Bangladesh,field,Bangladesh,Pat Cummins,ipl
+match_00026,2013-03-26,Wankhede Stadium,Australia,Afghanistan,Afghanistan,field,,Trent Boult,ipl
+match_00027,2014-06-07,MCG,Gujarat Titans,Rajasthan Royals,Gujarat Titans,bat,,Shane Watson,ipl
+match_00028,2023-07-16,Ahmedabad,Netherlands,Ireland,Ireland,bat,Ireland,Shaheen Afridi,ipl
+match_00029,2017-09-06,SCG,Bangladesh,India,India,field,Bangladesh,Rashid Khan,ipl
+match_00030,2019-09-25,MCG,India,England,England,bat,England,Faf du Plessis,ipl
+match_00031,2024-12-02,Wankhede Stadium,Afghanistan,Bangladesh,Afghanistan,bat,Bangladesh,Hardik Pandya,ipl
+match_00032,2014-08-10,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,,Rashid Khan,ipl
+match_00033,2017-11-28,Optus,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,bat,Royal Challengers Bengaluru,Suryakumar Yadav,ipl
+match_00034,2018-12-22,Chepauk,Chennai Super Kings,Bangladesh,Chennai Super Kings,bat,Bangladesh,Shreyas Iyer,ipl
+match_00035,2014-09-09,Sharjah,Bangladesh,India,Bangladesh,field,Bangladesh,Rinku Singh,ipl
+match_00036,2014-05-25,Ahmedabad,Ireland,Punjab Kings,Ireland,field,,Trent Boult,ipl
+match_00037,2021-02-12,Chepauk,South Africa,Sri Lanka,Sri Lanka,field,South Africa,Hardik Pandya,ipl
+match_00038,2013-02-20,Chepauk,Sri Lanka,Mumbai Indians,Sri Lanka,bat,,Trent Boult,ipl
+match_00039,2017-10-13,Ahmedabad,Pakistan,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,,Rashid Khan,ipl
+match_00040,2015-03-08,Wankhede Stadium,Bangladesh,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,Jasprit Bumrah,ipl
+match_00041,2014-05-24,SCG,England,Australia,England,bat,Australia,Hardik Pandya,ipl
+match_00042,2024-08-13,Ahmedabad,Afghanistan,New Zealand,Afghanistan,field,,Andre Russell,ipl
+match_00043,2018-02-13,Sharjah,Afghanistan,Mumbai Indians,Afghanistan,field,Mumbai Indians,Kieron Pollard,ipl
+match_00044,2017-07-22,Chepauk,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,Rinku Singh,ipl
+match_00045,2014-03-21,SCG,India,Royal Challengers Bengaluru,India,bat,Royal Challengers Bengaluru,Faf du Plessis,ipl
+match_00046,2019-09-15,SCG,Netherlands,West Indies,Netherlands,field,West Indies,Suryakumar Yadav,ipl
+match_00047,2024-08-03,Lords,West Indies,New Zealand,New Zealand,field,New Zealand,Shaheen Afridi,ipl
+match_00048,2021-09-05,Sharjah,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan,Shane Watson,ipl
+match_00049,2023-06-14,Wankhede Stadium,Pakistan,Netherlands,Pakistan,field,Pakistan,Shreyas Iyer,ipl
+match_00050,2017-12-20,Optus,Ireland,New Zealand,Ireland,field,New Zealand,Rohit Sharma,ipl
+match_00051,2017-04-13,Sharjah,Chennai Super Kings,Netherlands,Netherlands,bat,Netherlands,Ravindra Jadeja,ipl
+match_00052,2019-12-04,MCG,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,field,Rajasthan Royals,Pat Cummins,ipl
+match_00053,2021-10-01,Chinnaswamy,Sunrisers Hyderabad,New Zealand,Sunrisers Hyderabad,bat,,Kieron Pollard,ipl
+match_00054,2024-09-05,MCG,England,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,Shaheen Afridi,ipl
+match_00055,2014-10-18,Sharjah,Netherlands,Chennai Super Kings,Netherlands,field,Chennai Super Kings,Shubman Gill,ipl
+match_00056,2020-11-12,Wankhede Stadium,Gujarat Titans,Ireland,Ireland,bat,Gujarat Titans,David Warner,ipl
+match_00057,2017-06-10,Lords,Punjab Kings,New Zealand,Punjab Kings,field,Punjab Kings,Faf du Plessis,ipl
+match_00058,2019-08-19,Optus,Rajasthan Royals,Netherlands,Netherlands,bat,,Kieron Pollard,ipl
+match_00059,2023-04-28,Eden Gardens,Pakistan,Punjab Kings,Pakistan,field,Punjab Kings,Rashid Khan,ipl
+match_00060,2012-06-01,Lords,Mumbai Indians,New Zealand,New Zealand,bat,Mumbai Indians,Mohammad Shami,ipl
+match_00061,2019-09-22,Sharjah,Australia,Mumbai Indians,Australia,field,,Jasprit Bumrah,ipl
+match_00062,2012-10-01,Optus,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,Jos Buttler,ipl
+match_00063,2012-02-22,SCG,Sri Lanka,Australia,Sri Lanka,bat,Australia,AB de Villiers,ipl
+match_00064,2017-04-19,Eden Gardens,Royal Challengers Bengaluru,Netherlands,Royal Challengers Bengaluru,field,Netherlands,Joe Root,ipl
+match_00065,2012-07-16,Ahmedabad,Pakistan,Afghanistan,Afghanistan,bat,,KL Rahul,ipl
+match_00066,2023-01-16,Eden Gardens,Pakistan,Gujarat Titans,Pakistan,bat,Pakistan,Rashid Khan,ipl
+match_00067,2022-04-14,Ahmedabad,Royal Challengers Bengaluru,West Indies,Royal Challengers Bengaluru,bat,,Trent Boult,ipl
+match_00068,2023-07-13,Optus,Gujarat Titans,West Indies,Gujarat Titans,bat,West Indies,Joe Root,ipl
+match_00069,2017-10-10,SCG,Pakistan,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,Shubman Gill,ipl
+match_00070,2020-04-02,Optus,Rajasthan Royals,Sri Lanka,Rajasthan Royals,field,Sri Lanka,Hardik Pandya,ipl
+match_00071,2015-04-13,Ahmedabad,Ireland,Bangladesh,Bangladesh,field,,Jasprit Bumrah,ipl
+match_00072,2016-09-16,SCG,Chennai Super Kings,Gujarat Titans,Gujarat Titans,bat,Chennai Super Kings,Ravindra Jadeja,ipl
+match_00073,2012-11-05,Wankhede Stadium,Chennai Super Kings,England,Chennai Super Kings,field,,Yuzvendra Chahal,ipl
+match_00074,2022-06-16,Wankhede Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,,Ravindra Jadeja,ipl
+match_00075,2019-10-02,Sharjah,Pakistan,Bangladesh,Bangladesh,bat,Bangladesh,Rohit Sharma,ipl
+match_00076,2020-02-10,Wankhede Stadium,Afghanistan,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,Kieron Pollard,ipl
+match_00077,2015-04-03,Lords,Punjab Kings,Ireland,Ireland,bat,Ireland,Shubman Gill,ipl
+match_00078,2014-11-08,Ahmedabad,Ireland,Kolkata Knight Riders,Ireland,field,,KL Rahul,ipl
+match_00079,2014-01-25,Chinnaswamy,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,Mumbai Indians,Shreyas Iyer,ipl
+match_00080,2015-12-22,Ahmedabad,Sunrisers Hyderabad,West Indies,Sunrisers Hyderabad,bat,West Indies,Jos Buttler,ipl

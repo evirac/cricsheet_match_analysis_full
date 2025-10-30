@@ -1,0 +1,26 @@
+match_id,date,venue,team1,team2,toss_winner,toss_decision,winner,player_of_match,format
+match_00001,2022-06-16,Wankhede Stadium,Ireland,Sri Lanka,Sri Lanka,bat,,Rinku Singh,test
+match_00002,2015-12-07,Optus,Afghanistan,Netherlands,Netherlands,bat,,Trent Boult,test
+match_00003,2024-11-08,Ahmedabad,Punjab Kings,Bangladesh,Punjab Kings,field,Punjab Kings,Kane Williamson,test
+match_00004,2023-11-18,Chepauk,Mumbai Indians,Pakistan,Pakistan,bat,Mumbai Indians,Rinku Singh,test
+match_00005,2016-03-27,Lords,Royal Challengers Bengaluru,Ireland,Royal Challengers Bengaluru,bat,,Shikhar Dhawan,test
+match_00006,2015-04-27,Ahmedabad,Ireland,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,Andre Russell,test
+match_00007,2015-10-15,Wankhede Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,,Ravindra Jadeja,test
+match_00008,2022-11-26,Ahmedabad,West Indies,Kolkata Knight Riders,Kolkata Knight Riders,bat,,Shikhar Dhawan,test
+match_00009,2023-02-05,Wankhede Stadium,Bangladesh,West Indies,Bangladesh,bat,,Babar Azam,test
+match_00010,2024-07-03,Optus,Ireland,Chennai Super Kings,Ireland,field,Chennai Super Kings,Jos Buttler,test
+match_00011,2014-07-16,SCG,Mumbai Indians,New Zealand,Mumbai Indians,field,New Zealand,David Warner,test
+match_00012,2013-02-19,Chinnaswamy,Netherlands,Australia,Australia,field,Netherlands,Faf du Plessis,test
+match_00013,2012-11-04,Optus,Afghanistan,West Indies,West Indies,field,Afghanistan,Shreyas Iyer,test
+match_00014,2016-05-23,Lords,Kolkata Knight Riders,West Indies,West Indies,field,West Indies,Shane Watson,test
+match_00015,2016-07-13,Sharjah,New Zealand,Netherlands,Netherlands,field,New Zealand,Andre Russell,test
+match_00016,2016-05-07,SCG,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,,Shubman Gill,test
+match_00017,2019-11-16,Chepauk,Rajasthan Royals,Pakistan,Pakistan,field,,Shikhar Dhawan,test
+match_00018,2012-01-22,Chinnaswamy,Ireland,South Africa,Ireland,field,Ireland,Shubman Gill,test
+match_00019,2019-04-07,SCG,Netherlands,Mumbai Indians,Netherlands,field,Netherlands,Faf du Plessis,test
+match_00020,2012-08-04,Optus,England,West Indies,West Indies,bat,,Trent Boult,test
+match_00021,2024-09-10,Wankhede Stadium,Australia,West Indies,Australia,field,,Shreyas Iyer,test
+match_00022,2021-07-15,Eden Gardens,New Zealand,Ireland,New Zealand,bat,,Faf du Plessis,test
+match_00023,2013-08-18,Sharjah,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,Punjab Kings,Kieron Pollard,test
+match_00024,2014-05-15,Eden Gardens,Chennai Super Kings,Pakistan,Pakistan,field,Pakistan,Shreyas Iyer,test
+match_00025,2018-11-21,Sharjah,Punjab Kings,Australia,Australia,bat,,Shreyas Iyer,test
